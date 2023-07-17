@@ -6,7 +6,7 @@ def is_complete_graph(adj_matrix):
                 return False
     return True        
 num_vertices=int(input("Enter no. of vertex :"))
-# graph =[
+# graph =[  
 #          [0 ,1,0,1],
 #          [1,0,1,1],
 #          [1,1,0,1],
